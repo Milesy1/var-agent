@@ -2,8 +2,8 @@ import streamlit as st
 import requests
 import os
 
-AGENT_URL = "https://var-agent.yellowisland-e0cd28f9.uksouth.azurecontainerapps.io"
-API_KEY = "var-agent-key-2026"
+AGENT_URL = st.secrets.get("AGENT_URL", "https://var-agent.yellowisland-e0cd28f9.uksouth.azurecontainerapps.io")
+API_KEY = st.secrets.get("API_KEY", "var-agent-key-2026")
 
 st.set_page_config(page_title="VaR Risk Agent", page_icon="📊", layout="centered")
 
