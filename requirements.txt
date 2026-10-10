@@ -1,0 +1,13 @@
+﻿openai>=1.40.0
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langgraph>=0.2.0
+azure-search-documents>=11.6.0
+azure-storage-blob>=12.22.0
+azure-keyvault-secrets>=4.8.0
+azure-identity>=1.17.0
+fastapi>=0.115.0
+uvicorn>=0.30.0
+pandas>=2.2.0
+python-dotenv>=1.0.0
+langfuse>=2.0.0

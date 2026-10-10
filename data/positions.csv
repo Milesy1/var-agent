@@ -1,0 +1,16 @@
+﻿position_id,trader,desk,commodity,instrument,direction,notional_usd,price,volatility_1d,var_95_1d,var_99_1d,delta,status
+P001,John Smith,Crude Oil,Brent Crude,Futures,Long,5000000,82.45,0.021,210000,315000,1.0,Active
+P002,Sarah Jones,Crude Oil,WTI Crude,Futures,Short,3200000,79.20,0.019,120960,181440,−1.0,Active
+P003,Mike Chen,Refined Products,Heating Oil,Swap,Long,1800000,2.45,0.025,90000,135000,0.95,Active
+P004,Emma Davis,Refined Products,Gasoline,Options,Long,2500000,2.38,0.031,155000,232500,0.72,Active
+P005,John Smith,Crude Oil,Brent Crude,Options,Short,4100000,82.45,0.021,172200,258300,-0.65,Active
+P006,Sarah Jones,Natural Gas,Henry Hub,Futures,Long,900000,3.12,0.035,63000,94500,1.0,Active
+P007,Mike Chen,Shipping,VLCC Freight,Swap,Long,1200000,38500,0.028,67200,100800,1.0,Active
+P008,Emma Davis,Crude Oil,Dubai Crude,Futures,Short,2800000,80.10,0.020,112000,168000,-1.0,Active
+P009,John Smith,Refined Products,Jet Fuel,Swap,Long,2100000,2.71,0.027,113400,170100,0.98,Active
+P010,Sarah Jones,Crude Oil,Brent Crude,Futures,Long,6500000,82.45,0.021,273000,409500,1.0,Active
+P011,Mike Chen,Refined Products,Heating Oil,Options,Short,1500000,2.45,0.025,75000,112500,-0.58,Active
+P012,Emma Davis,Natural Gas,Henry Hub,Swap,Short,800000,3.12,0.035,56000,84000,-1.0,Active
+P013,John Smith,Crude Oil,WTI Crude,Futures,Long,4400000,79.20,0.019,167200,250800,1.0,Active
+P014,Sarah Jones,Shipping,Aframax Freight,Futures,Long,950000,22000,0.032,60800,91200,1.0,Active
+P015,Mike Chen,Crude Oil,Brent Crude,Swap,Short,3600000,82.45,0.021,151200,226800,-1.0,Active
